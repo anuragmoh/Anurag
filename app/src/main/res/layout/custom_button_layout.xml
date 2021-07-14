@@ -1,0 +1,11 @@
+<Button android:id="@+id/editTextBodyTemprature"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:textColor="@color/white"
+    android:maxLength="100"
+    android:text=""
+    android:textColorHint="@color/white"
+    android:background="@drawable/login_button_bk"
+    android:padding="5dp"
+    android:textSize="15sp"
+    xmlns:android="http://schemas.android.com/apk/res/android" />

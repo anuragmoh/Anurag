@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="rating">#ffdc2f</color>
+    <color name="normal">#c9c9c9</color>
+    <color name="accent_200">#016FC6</color>
+    <color name="primary_500">#016FC6</color>
+    <color name="green">#09F613</color>
+    <color name="green1">#00AA00</color>
+    <color name="green2">#007700</color>
+    <color name="trans_500">#00016FC6</color>
+    <color name="primary_dark_700">#016FC6</color>
+    <color name="activity_background">#D5D7D8</color>
+    <color name="teal_200">#488be4</color>
+    <color name="teal_700">#488be4</color>
+    <color name="black">#FF000000</color>
+    <color name="silver">#f0f0f0</color>
+    <!--colors for modern ui-->
+    <color name="whiteTextColor">#fff</color>
+    <color name="primaryTextColor">@color/primary_500</color>
+    <color name="backgroundColor">@color/cart2</color>
+    <color name="activityBackgroundColor">#EFEFEF</color>
+    <color name="orange">#fa6a6a</color>
+    <color name="orchid">#f2b809</color>
+    <!--colors for card-->
+    <color name="whiteCardColor">@color/graycart</color>
+    <color name="textColor">#0c0c0c</color>
+    <color name="white">#FFFFFF</color>
+    <color name="card_white">#FFFFFF</color>
+    <color name="active_button_color">@color/primary_500</color>
+    <color name="inactive_button_color">#808080</color>
+    <color name="gray">#808080</color>
+    <color name="graycart">#DFE0E1</color>
+    <color name="cart2">#DEF1FF</color>
+
+    <color name="text_color">#292929</color>
+
+    <color name="tabTextColor">#FFFFFF</color>
+    <color name="textColorWhite">#FFFFFF</color>
+    <color name="tabIndicatorColor">#D8D7D7</color>
+    <color name="red">#FF0000</color>
+    <color name="blue">#3F51B5</color>
+    <color name="expendable_background">#EDEDED</color>
+    <color name="layout_background">#F3F3F3</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent1">#2A000000</color>
+    <color name="transparent_less">#70000000</color>
+
+    <color name="bg_1">#FAFAFA</color>
+    <color name="bg_2">#E4E4E6</color>
+
+
+    <!-- Screens background color-->
+    <color name="bg_screen1">#f64c73</color>
+    <color name="bg_screen2">#20d2bb</color>
+    <color name="bg_screen3">#3395ff</color>
+    <color name="bg_screen4">#c873f4</color>
+
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen1">#d1395c</color>
+    <color name="dot_dark_screen2">#14a895</color>
+    <color name="dot_dark_screen3">#2278d4</color>
+    <color name="dot_dark_screen4">#a854d4</color>
+
+    <color name="message_color">#F16A3F</color>
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen1">#f98da5</color>
+    <color name="dot_light_screen2">#8cf9eb</color>
+    <color name="dot_light_screen3">#93c6fd</color>
+    <color name="dot_light_screen4">#e4b5fc</color>
+
+    <array name="array_dot_active">
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen3</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_screen3</item>
+        <item>@color/dot_dark_screen3</item>
+        <item>@color/dot_dark_screen3</item>
+        <item>@color/dot_dark_screen3</item>
+    </array>
+
+    <color name="divider">#FFFFFF</color>
+</resources>

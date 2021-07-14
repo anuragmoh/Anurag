@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout
+        android:id="@+id/linear1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/buttonContacts"
+            style="@style/buttonStyle"
+            android:layout_gravity="center_horizontal"
+            android:text="Contacts"
+            android:textAllCaps="false"
+            android:layout_margin="5dp" />
+
+        <Button
+            android:id="@+id/buttonFavourites"
+            style="@style/buttonStyle"
+            android:layout_gravity="center_horizontal"
+            android:text="Favourites"
+            android:textAllCaps="false"
+            android:layout_margin="5dp"
+            android:layout_marginBottom="20dp"/>
+
+
+        <Button
+            android:id="@+id/buttonDeleted"
+            style="@style/buttonStyle"
+            android:layout_gravity="center_horizontal"
+            android:text="Deleted"
+            android:textAllCaps="false"
+            android:layout_margin="5dp"
+            android:layout_marginBottom="20dp"/>
+
+
+
+    </LinearLayout>
+</layout>
